@@ -21,7 +21,7 @@ Mostrar Pokémon por Región | check | Bien |
 
 Los comentarios añadidos son para tener en consideración a la hora de implementar el código, estos no fueron atendidos para no hacer el código más robusto y fueron considerados en la implementación pero no se realizaron para hacer el código más eficiente en tiempo.
 
-Coevaluación equipo Esmeralda
+Coevaluación Equipo Esmeralda
 
 Nombre | Asistencia y puntualidad | Integración | Responsabilidad | Contribución | 
 ------ | ------------------------ | ----------- | --------------- | ------------ |
@@ -29,8 +29,6 @@ Rocío | 0 | 0 | 0 | 0 |
 José | 0 | 0 | 0 | 0 |
 Felipe | 0 | 0 | 0 | 0 |
 
-
 Comentarios : La rúbrica ha quedado en cero ya que trabajamos en conjunto y de esa manera no se quita ni se suma puntaje a ningún integrante. 
 
 CONSIDERACIÓN: Ademas, los commit al repositorio de github se hicieron desde un replit compartido por lo que los commit que no son del dueño del replit quedan a nombre del dueño, a pesar de esto, todos los integrantes del grupo usaron los comandos de git.
-
