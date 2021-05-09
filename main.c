@@ -7,12 +7,12 @@
 
 void importarPokemonsDesdeUnArchivo(Map* mapaAlmacenamiento, Map* mapaPokedex);
 
-int main( ) {
+int main() {
 
 	Map * mapaAlmacenamiento = createMap(is_equal_int);
 	Map * mapaPokedex = createMap(is_equal_string);
-
-	importarPokemonsDesdeUnArchivo(mapaAlmacenamiento, mapaPokedex);
+	
+  	importarPokemonsDesdeUnArchivo(mapaAlmacenamiento, mapaPokedex);
 
 	mostrarMenu(mapaAlmacenamiento, mapaPokedex);
 
